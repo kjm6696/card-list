@@ -18,8 +18,8 @@
     "start": "web-dev-server"
   },
   "dependencies": {
-    "anime-card": "^0.0.0",
-    "koben-orange-card": "^0.0.0",
+    "anime-card": "^0.0.2",
+    "koben-orange-card": "^0.0.1",
     "lit": "^2.0.2"
   },
   "devDependencies": {
